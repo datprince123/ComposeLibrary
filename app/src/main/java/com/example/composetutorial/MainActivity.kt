@@ -1,3 +1,5 @@
+package com.example.composetutorial
+
 import android.content.res.Configuration
 import android.os.Bundle
 import androidx.activity.ComponentActivity
