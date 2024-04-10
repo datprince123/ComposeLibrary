@@ -57,7 +57,11 @@ object SampleData {
         Message("Duong", "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."),
         Message("Dat", "Have you seen the new movie?"),
         Message("Duong", "Not yet, but I heard it's great!"),
-        Message("Duong", "Let's go watch it together sometime.")
+        Message("Duong", "Let's go watch it together sometime."),
+        Message("Dat", "I very handsome haha"),
+        Message("Duong", "Yes, i agree"),
+        Message("Dat", "Thank you very much"),
+        Message("Duong", "You're welcome")
     )
 }
 
